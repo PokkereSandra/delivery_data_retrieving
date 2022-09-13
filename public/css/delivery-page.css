@@ -1,0 +1,25 @@
+.page-block-left {
+    padding-top: 20px;
+}
+.page-block-right {
+    padding-top: 80px;
+}
+.error-link{
+    text-decoration: none;
+    color: #1a202c;
+}
+.client-info{
+    text-align: left;
+}
+.address-list{
+    text-align: left;
+    position: relative;
+    left : -10px;
+}
+.both-types-row{
+    display: flex;
+}
+.both-types-column{
+    flex: 50%;
+
+}
